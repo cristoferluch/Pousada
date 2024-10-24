@@ -1,5 +1,5 @@
 
-**Nome:** Cristofer Luchtenberg
+**Nome:** Cristofer Luchtenberg, Vinicius Correia Dos Santos
 <br>
 **Professor:** Dr. Renato Simões Moreira
 
